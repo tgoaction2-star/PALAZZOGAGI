@@ -1,0 +1,5 @@
+{
+  "name": "AI Mandalart Planner",
+  "description": "A high-performance productivity tool that generates highly actionable 9x9 Mandalart plans using Gemini 3 Flash. It breaks down goals into calendar-ready action items with environment triggers and plan-B options.",
+  "requestFramePermissions": []
+}
